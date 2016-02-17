@@ -26,7 +26,7 @@
 < topic
 
 
-> topic random inherits shared
+> topic random
 
 	+ ~emohello [*~2]
 	- Hi!
@@ -43,7 +43,7 @@
 
 
 
-> topic movies inherits shared
+> topic movies
 
 	+ start
 	- do you like movies?
@@ -58,7 +58,7 @@
 
 
 
-> topic grammar inherits shared
+> topic grammar
 
 	+ start
 	- lets talk grammar!
