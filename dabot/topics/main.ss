@@ -1,4 +1,4 @@
-> topic:system:keep shared
+> topic:keep shared
 
 	+ movies
 	- lets talk movies
@@ -23,12 +23,19 @@
 	+ start
 	- do you like sports?
 
+	+ ~no
+	- why not? sports are good.
+
+	+ ~yes
+	- me too, i like swimming
+	- me too, i like football
+
 < topic
 
 
 > topic random
 
-	+ ~emohello [*~2]
+	+ ~hi
 	- Hi!
 	- Hi, how are you?
 	- How are you?
@@ -63,7 +70,7 @@
 	+ start
 	- lets talk grammar!
 
-	+ i was <verb>
-	- oh, you were <cap>?
+//	+ i was <verb>
+//	- oh, you were <cap>?
 
 < topic
