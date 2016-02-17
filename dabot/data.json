@@ -30,7 +30,7 @@
         }
     },
     "gambits": {
-        "aj5gENaQ": {
+        "sEElH5NU": {
             "topic": "shared",
             "options": {
                 "isQuestion": false,
@@ -40,13 +40,13 @@
                 "filter": false
             },
             "replys": [
-                "XOJRTRSj"
+                "blNWQX55"
             ],
             "redirect": null,
             "trigger": "movies",
             "raw": "movies"
         },
-        "Qj9GNW1K": {
+        "xAZmSxte": {
             "topic": "shared",
             "options": {
                 "isQuestion": false,
@@ -56,13 +56,13 @@
                 "filter": false
             },
             "replys": [
-                "WWHZDjp9"
+                "IvLhHKUp"
             ],
             "redirect": null,
             "trigger": "grammar",
             "raw": "grammar"
         },
-        "fKZ5Kgum": {
+        "gjdz7dA1": {
             "topic": "shared",
             "options": {
                 "isQuestion": false,
@@ -72,13 +72,13 @@
                 "filter": false
             },
             "replys": [
-                "eGuCOZmb"
+                "VxulLAeA"
             ],
             "redirect": null,
             "trigger": "(\\bjocosity\\b|\\bwaggery\\b|\\bdrollery\\b|\\bpun\\b|\\bfreak\\b|\\bprofessional boxing\\b|\\bprofessional wrestling\\b|\\bsumo\\b|\\bprofessional golf\\b|\\bprofessional football\\b|\\bprofessional baseball\\b|\\bprofessional basketball\\b|\\bprofessional tennis\\b|\\bfunambulism\\b|\\brock climbing\\b|\\bcontact sport\\b|\\boutdoor sport\\b|\\bgymnastics\\b|\\btrack and field\\b|\\bskiing\\b|\\bwater sport\\b|\\browing\\b|\\barchery\\b|\\bsledding\\b|\\bskating\\b|\\bracing\\b|\\briding\\b|\\bcycling\\b|\\bblood sport\\b|\\bathletic game\\b|\\bjudo\\b|\\bspectator sport\\b|\\bteam sport\\b)",
             "raw": "~sport"
         },
-        "C0dXy19g": {
+        "Hx3jd0OU": {
             "topic": "shared",
             "options": {
                 "isQuestion": false,
@@ -88,13 +88,13 @@
                 "filter": false
             },
             "replys": [
-                "gB5QPOy7"
+                "V2zRAHph"
             ],
             "redirect": null,
             "trigger": "new",
             "raw": "new"
         },
-        "QiHe2OuQ": {
+        "I24Hip7u": {
             "topic": "sport",
             "options": {
                 "isQuestion": false,
@@ -104,13 +104,13 @@
                 "filter": false
             },
             "replys": [
-                "f8HX7DuH"
+                "Z4AvvdVc"
             ],
             "redirect": null,
             "trigger": "start",
             "raw": "start"
         },
-        "h45g6Gf5": {
+        "5vCHtNQ5": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -120,18 +120,18 @@
                 "filter": false
             },
             "replys": [
-                "6JUSXEEj",
-                "YPYcD36v",
-                "u2j8KYgK",
-                "Lo3p3Gnf",
-                "5AQUbsmG",
-                "eGxRUE8s"
+                "L735hnm8",
+                "zAh9vxDz",
+                "FwHJcpRQ",
+                "QuVe68tO",
+                "A6nWUmN3",
+                "rzZXf2oa"
             ],
             "redirect": null,
             "trigger": "~emohello(?:\\s*(\\s?(?:[\\w-:]*\\??\\.?\\,?\\s*\\~?\\(?\\)?){0,2})\\s*|\\s*)",
             "raw": "~emohello [*~2]"
         },
-        "m03Xr938": {
+        "7XYkNKJG": {
             "topic": "random",
             "options": {
                 "isQuestion": false,
@@ -141,13 +141,13 @@
                 "filter": false
             },
             "replys": [
-                "SNEFPuqW"
+                "kmllvURH"
             ],
             "redirect": null,
             "trigger": "status",
             "raw": "status"
         },
-        "4MjWB2EG": {
+        "5IHceIJr": {
             "topic": "movies",
             "options": {
                 "isQuestion": false,
@@ -157,13 +157,13 @@
                 "filter": false
             },
             "replys": [
-                "16rjeQui"
+                "nrPF3xx7"
             ],
             "redirect": null,
             "trigger": "start",
             "raw": "start"
         },
-        "vk8ksJuo": {
+        "xZyUpgLs": {
             "topic": "movies",
             "options": {
                 "isQuestion": false,
@@ -173,13 +173,13 @@
                 "filter": false
             },
             "replys": [
-                "xtMG93wB"
+                "bnizXOss"
             ],
             "redirect": null,
             "trigger": "~yes",
             "raw": "~yes"
         },
-        "PTZlXd2D": {
+        "YQjwNtnF": {
             "topic": "movies",
             "options": {
                 "isQuestion": false,
@@ -189,13 +189,13 @@
                 "filter": false
             },
             "replys": [
-                "900V7IBW"
+                "rpB87HGz"
             ],
             "redirect": null,
             "trigger": "~no",
             "raw": "~no"
         },
-        "cWywi61d": {
+        "lgkma27T": {
             "topic": "grammar",
             "options": {
                 "isQuestion": false,
@@ -205,13 +205,13 @@
                 "filter": false
             },
             "replys": [
-                "2abeEMA0"
+                "NyoY7tp2"
             ],
             "redirect": null,
             "trigger": "start",
             "raw": "start"
         },
-        "AiaOwhey": {
+        "yVK4y3CW": {
             "topic": "grammar",
             "options": {
                 "isQuestion": false,
@@ -221,7 +221,7 @@
                 "filter": false
             },
             "replys": [
-                "QPK2uAe2"
+                "3JyedXiY"
             ],
             "redirect": null,
             "trigger": "I was <verb>",
@@ -230,23 +230,23 @@
     },
     "convos": {},
     "replys": {
-        "XOJRTRSj": "lets talk movies{topic=movies}{@start}",
-        "WWHZDjp9": "to grammar{topic=grammar}{@start}",
-        "eGuCOZmb": "lets talk about sports!{topic=sport}{@start}",
-        "gB5QPOy7": "this is new",
-        "f8HX7DuH": "do you like sports?",
-        "6JUSXEEj": "Hi!",
-        "YPYcD36v": "Hi, how are you?",
-        "u2j8KYgK": "How are you?",
-        "Lo3p3Gnf": "Hello",
-        "5AQUbsmG": "Howdy",
-        "eGxRUE8s": "Ola",
-        "SNEFPuqW": "topic is ^get(topicName)",
-        "16rjeQui": "do you like movies?",
-        "xtMG93wB": "thats good to hear",
-        "900V7IBW": "oh, why not?",
-        "2abeEMA0": "lets talk grammar!",
-        "QPK2uAe2": "oh, you were <cap>?"
+        "blNWQX55": "lets talk movies{topic=movies}{@start}",
+        "IvLhHKUp": "to grammar{topic=grammar}{@start}",
+        "VxulLAeA": "lets talk about sports!{topic=sport}{@start}",
+        "V2zRAHph": "this is new",
+        "Z4AvvdVc": "do you like sports?",
+        "L735hnm8": "Hi!",
+        "zAh9vxDz": "Hi, how are you?",
+        "FwHJcpRQ": "How are you?",
+        "QuVe68tO": "Hello",
+        "A6nWUmN3": "Howdy",
+        "rzZXf2oa": "Ola",
+        "kmllvURH": "topic is ^get(topicName)",
+        "nrPF3xx7": "do you like movies?",
+        "bnizXOss": "thats good to hear",
+        "rpB87HGz": "oh, why not?",
+        "NyoY7tp2": "lets talk grammar!",
+        "3JyedXiY": "oh, you were <cap>?"
     },
     "checksums": {
         "./topics/main.ss": "1a5cff46ea55084107e8abaa904b829300debee1"
