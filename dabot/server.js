@@ -1,20 +1,22 @@
 // Run this and then telnet to localhost:2000 and chat with the bot
 var debug = require('debug')
 
-var execSync = require('child_process').execSync;
-var parseCmd = 'parse -f';
-var cleanupCmd = './node_modules/superscript/bin/cleanup.js --mongo superscriptDB';
 
-console.log("parse begin")
 
-execSync(cleanupCmd, function(error, stdout, stderr) {
-  // command output is in stdout
-  if (error|stderr) {
-      console.log("parse error", error, stderr)
-  }
-  console.log("parse end", stdout)
-});
+if (process.env.SS_WATCH) {
+  var execSync = require('child_process').execSync;
+  var parseCmd = 'parse -f';
+  var cleanupCmd = './node_modules/superscript/bin/cleanup.js --mongo superscriptDB';
+  console.log("parse begin")
+  execSync(cleanupCmd, function(error, stdout, stderr) {
+    // command output is in stdout
+    if (error|stderr) {
+        console.log("parse error", error, stderr)
+    }
+    console.log("parse end", stdout)
+  });
 
+}
 
 
 var net             = require("net");

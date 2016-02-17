@@ -15,6 +15,13 @@
 	+ new
 	- this is new
 
+	+ test
+	- test2
+
+	+ weather *~3
+	- checking...
+	^ ^getWeather(<cap>)
+
 < topic
 
 
@@ -35,7 +42,7 @@
 
 > topic random
 
-	+ ~hi
+	+ hi
 	- Hi!
 	- Hi, how are you?
 	- How are you?

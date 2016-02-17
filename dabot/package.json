@@ -1,6 +1,6 @@
 {
   "name": "dabot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "superscript": "latest",
@@ -9,6 +9,8 @@
     "debug": "~2.0.0"
   },
   "scripts": {
-    "reload": "./node_modules/superscript/bin/cleanup.js --mongo superscriptDB"
+    "cleanup": "./node_modules/superscript/bin/cleanup.js --mongo superscriptDB",
+    "parse": "./node_modules/superscript/bin/parse.js -f",
+    "watch-ss": "nodemon -e ss ./node_modules/superscript/bin/cleanup.js --mongo superscriptDB"
   }
 }
