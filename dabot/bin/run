@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+export DEBUG=SS*
+export DEBUG_LEVEL=info
+
+nodemon -e js,ss server.js
